@@ -1,0 +1,13 @@
+body {
+	background-color: #fff;
+}
+.sign-in-form {
+	margin-top: 50px;
+}
+
+.sign-in-area {
+    background-color: #F7F7F7;
+    border-radius: 5px 5px 5px 5px;
+    padding: 70px;
+    box-shadow: 10px 10px 50px 20px black inset;
+}
