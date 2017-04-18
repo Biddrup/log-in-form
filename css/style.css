@@ -1,5 +1,6 @@
 body {
-	background-color: #fff;
+	background-color: #99f;
+	color: #fff;
 }
 .sign-in-form {
 	margin-top: 50px;
@@ -9,5 +10,18 @@ body {
     background-color: #F7F7F7;
     border-radius: 5px 5px 5px 5px;
     padding: 70px;
-    box-shadow: 10px 10px 50px 20px black inset;
+    box-shadow: 10px 10px 50px 20px lightgreen inset;
+}
+.sign-in-title {
+
+    background-color: #F7F7F7;
+    border-radius: 5px 5px 5px 5px;
+    padding: 15px;
+    box-shadow: 10px 10px 50px 20px #000 inset;
+}
+.required-info {
+	background-color: #000;
+    border-radius: 5px 5px 5px 5px;
+    padding: 15px;
+    box-shadow: 10px 10px 50px 20px #0ff inset;
 }
